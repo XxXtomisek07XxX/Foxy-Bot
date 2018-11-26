@@ -1,0 +1,7 @@
+
+
+Obsah:
+discord.py
+PyNaCl
+asyncio
+status
