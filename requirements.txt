@@ -1,6 +1,6 @@
 
 
-Obsah:
+Obsah
 discord.py
 PyNaCl
 asyncio
