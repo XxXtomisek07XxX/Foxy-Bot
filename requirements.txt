@@ -1,7 +1,7 @@
 
 
-Obsah
-discord.py
+
+discord.py 
 PyNaCl
 asyncio
 status
