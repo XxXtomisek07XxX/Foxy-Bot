@@ -1,7 +1,7 @@
 
 
 
-discord.py 
-PyNaCl
-asyncio
-status
+discord.py
+
+
+
